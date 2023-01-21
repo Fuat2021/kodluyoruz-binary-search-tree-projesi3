@@ -3,13 +3,15 @@
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 Root 7 
+Big-O Gösterimi: O(log(n))
 
 
 Binary Search Tree 
 
               7  
            /    \
-           V     V
+           V     V      Cancel changes
+
            5     8      
           / \     \
           V  V     V
