@@ -10,7 +10,7 @@ Binary Search Tree
 
               7  
            /    \
-           V     V      Cancel changes
+           V     V      
 
            5     8      
           / \     \
